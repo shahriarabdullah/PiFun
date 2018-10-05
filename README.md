@@ -3,7 +3,7 @@ While messing around with probability stuffs, I figured out an *'exceptional way
 
 I drew a circle with a radius of 3 unit (it can be of any other arbitrary length) and constructed a square inscribed in the circle by connecting the vertex of horizontal and vertical diameter.
 
-![alt text](https://github.com/shahriarabdullah/PiFun/blob/master/fig1.png)
+![Square inscribed in circle](https://github.com/shahriarabdullah/PiFun/blob/master/fig_final.PNG)
 
 The area of the square is-<br/>
 <a href="http://www.codecogs.com/eqnedit.php?latex=A_s=(\frac{r}{\sqrt{2}})^2=\frac{r^2}{2}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?A_s=(\frac{r}{\sqrt{2}})^2=\frac{r^2}{2}" title="A_s=(\frac{r}{\sqrt{2}})^2=\frac{r^2}{2}" /></a>
